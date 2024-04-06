@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c073ee73b39e28943a516428768d0a75, type: 3}
+  m_Name: MeteorConfiguration
+  m_EditorClassIdentifier: 
+  addScoreCount: 1
+  sprites:
+  - {fileID: 21300000, guid: 97c8df02d5503064c9e3eb9c819360ec, type: 3}
+  - {fileID: 21300000, guid: b21456d5b12aaf8488119d5cd1a25c3c, type: 3}
+  - {fileID: 21300000, guid: 0f8e897b7dc45794e911f278a192d5e1, type: 3}
+  MinRotation: 0.4
+  MaxRotation: 1
+  MinScale: 0.3
+  MaxScale: 0.7
+  MinSpeed: 0.5
+  MaxSpeed: 1
